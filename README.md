@@ -2,6 +2,10 @@
 
 FastAPI + SQLAlchemy 2 async backend for the marketplace (Vue 3 + TypeScript frontend, PostgreSQL, MinIO).
 
+## Screenshots
+
+![API docs](docs/screenshots/Screenshot%202026-03-16%20at%2003.29.08.png)
+
 ## Stack
 
 - FastAPI
